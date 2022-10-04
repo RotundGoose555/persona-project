@@ -94,6 +94,7 @@
   max-height: 50%;
   max-width: 50%;
   padding-bottom: 2%;
+  color: rgb(243, 242, 242);
 }
 
 .sketch-functionality{
@@ -203,6 +204,7 @@ th:nth-child(1), td:nth-child(1) {
   width: 60%;
   height:auto;
   justify-self: center;
+  color: rgb(243, 242, 242);
 }
 
 
